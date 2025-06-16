@@ -36,10 +36,15 @@ Infrastructure as a Foundation: This architecture provides a central point (the 
 
 ## Key Skills & Technologies Used
 A. Networking: Google Cloud VPC, Subnets, Firewall Rules, Hub-and-Spoke Architecture
+
 B. Compute: Google Compute Engine (GCE)
+
 C. Connectivity: Network Connectivity Center (NCC)
+
 D. Monitoring: Network Topology Visualization
+
 E. CLI & Diagnostics: gcloud, ping for connectivity testing
+
 F. Potential Enhancements
 
 This foundational project could be extended by:
